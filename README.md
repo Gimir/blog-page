@@ -1,1 +1,1 @@
-# blog-page
+# https://gimir.github.io/blog-page/
